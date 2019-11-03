@@ -1,0 +1,32 @@
+
+	body {color: rgb(50,50,50);
+	 	background-color: rgb(200,200,200);
+  		font-family: Times News Roman ;
+  		font-size: 12px
+  		font-weight: bold;
+
+	}
+  	
+  	div {  background: white;
+   		padding: 60px;
+    	margin: 50px;
+    	box-shadow: 0px 10px 30px rgba(0,0,0,0.1);
+    	border-radius: 4px;
+
+    } 
+
+  	h1{
+  		color: blue;
+  		font-size: 20px;
+  		font-weight: bold;
+  	}
+  	
+  	h2,h3,h4,h5,h6,h7{
+  		    color: blue;
+   			font-family: Times News Roman;
+    		font-size: 14px;
+    		font-weight: bold;
+  	}
+
+  	
+  	
